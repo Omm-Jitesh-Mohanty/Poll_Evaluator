@@ -1,2 +1,5 @@
 # Poll_Evaluator
-This is simple poll evaluating web app which can evaluate multiple poll and can publish result instantly and also can take input from multiple user.
+This is simple poll evaluating web app which can evaluate multiple poll and can publish result instantly and also can take input from multiple user.This project can be developed as an online voting platform which is very helpful and useful the foreign ambassadors of our country.In case if anyone unable to vote in offline then he/she can do it easily on online.I have made this project in very simple language i.e I have used  Python Django and HTML.
+
+<h1>Functions</h1>
+Here I have created a superuser.The superuser only have ability to create poll and normal user can only vote.It is just like our election commission can set our EVM for us.The user can go and vote his party.As it has capacity to calculate result instantly so it can publish result very fast.And also superuser can stop poll anytime like when election time go no one can vote.I want certain more development on it like user can only login by using his voterid and password and also that result will publish when election commision want and it congratulate to all.
